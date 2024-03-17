@@ -1,0 +1,12 @@
+{
+	"extends": [
+		"../../biome.json"
+	],
+	"formatter": {
+		"indentStyle": "space",
+		"ignore": ["node_modules",".next"]
+	},
+	"linter": {
+		"ignore": ["node_modules",".next"]
+	}
+}
